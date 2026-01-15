@@ -302,6 +302,12 @@ export const generatedRoutes: ElegantConstRoute[] = [
                 name: '(base)_my-app_first',
                 path: '/my-app/first',
                 handle: { i18nKey: 'route.(base)_my-app_first', title: '(base)_my-app_first' }
+              },
+              {
+                matchedFiles: [null, '/src/pages/(base)/my-app/second/index.tsx', null, null],
+                name: '(base)_my-app_second',
+                path: '/my-app/second',
+                handle: { i18nKey: 'route.(base)_my-app_second', title: '(base)_my-app_second' }
               }
             ]
           },

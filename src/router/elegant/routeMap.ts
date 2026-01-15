@@ -55,6 +55,7 @@ export const routeMap: RouteMap = {
  "(base)_multi-menu_second_child_home": "/multi-menu/second/child/home",
  "(base)_my-app": "/my-app",
  "(base)_my-app_first": "/my-app/first",
+ "(base)_my-app_second": "/my-app/second",
  "(base)_projects": "/projects",
  "(base)_projects_[pid]": "/projects/:pid",
  "(base)_projects_[pid]_edit": "/projects/:pid/edit",

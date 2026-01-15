@@ -26,6 +26,7 @@ const route: App.I18n.Schema['translation']['route'] = {
   '(base)_multi-menu_second_child_home': 'Menu Two Child Home',
   '(base)_my-app': 'My App',
   '(base)_my-app_first': 'My First App',
+  '(base)_my-app_second': 'Array, Linked List, Stack, Queue: Detailed Explanation and Comparison',
   '(base)_projects': 'Multi-level Dynamic Route',
   '(base)_projects_[pid]': 'Multi-level Dynamic Route Details',
   '(base)_projects_[pid]_edit': 'Multi-level Dynamic Route Edit',

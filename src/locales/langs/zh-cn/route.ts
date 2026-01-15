@@ -31,6 +31,7 @@ const route: App.I18n.Schema['translation']['route'] = {
   '(base)_user-center': '个人中心',
   '(base)_my-app': '我的应用',
   '(base)_my-app_first': '一千万条数据渲染',
+  '(base)_my-app_second': '数组、链表、栈、队列：详细解释与比较',
   '(blank)_login': '登录',
   '(blank)_login_code-login': '验证码登录',
   '(blank)_login_register': ' 注册账号',
