@@ -55,6 +55,8 @@ declare module "@soybean-react/vite-plugin-react-router" {
     "(base)_multi-menu_second_child": "/multi-menu/second/child";
     "(base)_multi-menu_second_child_home": "/multi-menu/second/child/home";
     "(base)_my-app": "/my-app";
+    "(base)_my-app_algorithm-problem": "/my-app/algorithm-problem";
+    "(base)_my-app_algorithm-problem_first": "/my-app/algorithm-problem/first";
     "(base)_my-app_first": "/my-app/first";
     "(base)_my-app_second": "/my-app/second";
     "(base)_projects": "/projects";
@@ -165,6 +167,7 @@ declare module "@soybean-react/vite-plugin-react-router" {
     | "(base)_multi-menu_second_child_home"
     | "(base)_multi-menu_second_child"
     | "(base)_multi-menu_second"
+    | "(base)_my-app_algorithm-problem_first"
     | "(base)_my-app_first"
     | "(base)_my-app_second"
     | "(base)_projects_[pid]_edit_[id]"
