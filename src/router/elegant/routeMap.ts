@@ -56,6 +56,7 @@ export const routeMap: RouteMap = {
  "(base)_my-app": "/my-app",
  "(base)_my-app_algorithm-problem": "/my-app/algorithm-problem",
  "(base)_my-app_algorithm-problem_first": "/my-app/algorithm-problem/first",
+ "(base)_my-app_algorithm-problem_second": "/my-app/algorithm-problem/second",
  "(base)_my-app_first": "/my-app/first",
  "(base)_my-app_second": "/my-app/second",
  "(base)_projects": "/projects",
