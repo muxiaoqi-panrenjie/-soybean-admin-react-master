@@ -320,6 +320,15 @@ export const generatedRoutes: ElegantConstRoute[] = [
                       i18nKey: 'route.(base)_my-app_algorithm-problem_second',
                       title: '(base)_my-app_algorithm-problem_second'
                     }
+                  },
+                  {
+                    matchedFiles: [null, '/src/pages/(base)/my-app/algorithm-problem/third/index.tsx', null, null],
+                    name: '(base)_my-app_algorithm-problem_third',
+                    path: '/my-app/algorithm-problem/third',
+                    handle: {
+                      i18nKey: 'route.(base)_my-app_algorithm-problem_third',
+                      title: '(base)_my-app_algorithm-problem_third'
+                    }
                   }
                 ]
               },
