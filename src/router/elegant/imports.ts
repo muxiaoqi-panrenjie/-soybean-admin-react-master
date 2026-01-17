@@ -43,6 +43,7 @@ export const pages: Record<string, () => Promise<any>> = {
 "(base)_multi-menu_second_child": () => import("@/pages/(base)/multi-menu/second/child/index.tsx"),
 "(base)_multi-menu_second": () => import("@/pages/(base)/multi-menu/second/index.tsx"),
 "(base)_my-app_algorithm-problem_first": () => import("@/pages/(base)/my-app/algorithm-problem/first/index.tsx"),
+"(base)_my-app_algorithm-problem_fourth": () => import("@/pages/(base)/my-app/algorithm-problem/fourth/index.tsx"),
 "(base)_my-app_algorithm-problem_second": () => import("@/pages/(base)/my-app/algorithm-problem/second/index.tsx"),
 "(base)_my-app_algorithm-problem_third": () => import("@/pages/(base)/my-app/algorithm-problem/third/index.tsx"),
 "(base)_my-app_first": () => import("@/pages/(base)/my-app/first/index.tsx"),

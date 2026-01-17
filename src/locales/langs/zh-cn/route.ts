@@ -35,6 +35,7 @@ const route: App.I18n.Schema['translation']['route'] = {
   '(base)_my-app_algorithm-problem_first': '合并两个有序数组',
   '(base)_my-app_algorithm-problem_second': '移除元素',
   '(base)_my-app_algorithm-problem_third': '删除有序数组中的重复项',
+  '(base)_my-app_algorithm-problem_fourth': '删除有序数组中的重复项 II',
   '(base)_my-app_second': '数组、链表、栈、队列：详细解释与比较',
   '(blank)_login': '登录',
   '(blank)_login_code-login': '验证码登录',
