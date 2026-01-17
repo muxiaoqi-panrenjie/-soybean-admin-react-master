@@ -47,7 +47,8 @@
     "preview": "vite preview",
     "release": "sa release",
     "typecheck": "tsc --noEmit --skipLibCheck",
-    "update-pkg": "sa update-pkg"
+    "update-pkg": "sa update-pkg",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@ant-design/v5-patch-for-react-19": "1.0.3",

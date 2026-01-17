@@ -33,6 +33,7 @@ const route: App.I18n.Schema['translation']['route'] = {
   '(base)_my-app_algorithm-problem_second': 'Remove Element',
   '(base)_my-app_algorithm-problem_third': 'Remove Duplicates from Sorted Array',
   '(base)_my-app_algorithm-problem_fourth': 'Remove Duplicates from Sorted Array II',
+  '(base)_my-app_algorithm-problem_five': 'Find the Majority Element',
   '(base)_my-app_daily_second': 'Array, Linked List, Stack, Queue: Detailed Explanation and Comparison',
   '(base)_projects': 'Multi-level Dynamic Route',
   '(base)_projects_[pid]': 'Multi-level Dynamic Route Details',
