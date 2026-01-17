@@ -39,6 +39,7 @@ const route: App.I18n.Schema['translation']['route'] = {
   '(base)_my-app_algorithm-problem_second': '移除元素',
   '(base)_my-app_algorithm-problem_third': '删除有序数组中的重复项',
   '(base)_my-app_algorithm-problem_fourth': '删除有序数组中的重复项 II',
+  '(base)_my-app_algorithm-problem_five': '多数元素',
   '(blank)_login': '登录',
   '(blank)_login_code-login': '验证码登录',
   '(blank)_login_register': ' 注册账号',
