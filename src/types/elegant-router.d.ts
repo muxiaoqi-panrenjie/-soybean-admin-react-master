@@ -60,8 +60,10 @@ declare module "@soybean-react/vite-plugin-react-router" {
     "(base)_my-app_algorithm-problem_fourth": "/my-app/algorithm-problem/fourth";
     "(base)_my-app_algorithm-problem_second": "/my-app/algorithm-problem/second";
     "(base)_my-app_algorithm-problem_third": "/my-app/algorithm-problem/third";
-    "(base)_my-app_first": "/my-app/first";
-    "(base)_my-app_second": "/my-app/second";
+    "(base)_my-app_daily": "/my-app/daily";
+    "(base)_my-app_daily_first": "/my-app/daily/first";
+    "(base)_my-app_daily_second": "/my-app/daily/second";
+    "(base)_my-app_daily_third": "/my-app/daily/third";
     "(base)_projects": "/projects";
     "(base)_projects_[pid]": "/projects/:pid";
     "(base)_projects_[pid]_edit": "/projects/:pid/edit";
@@ -174,8 +176,9 @@ declare module "@soybean-react/vite-plugin-react-router" {
     | "(base)_my-app_algorithm-problem_fourth"
     | "(base)_my-app_algorithm-problem_second"
     | "(base)_my-app_algorithm-problem_third"
-    | "(base)_my-app_first"
-    | "(base)_my-app_second"
+    | "(base)_my-app_daily_first"
+    | "(base)_my-app_daily_second"
+    | "(base)_my-app_daily_third"
     | "(base)_projects_[pid]_edit_[id]"
     | "(base)_projects_[pid]_edit"
     | "(base)_projects_[pid]"

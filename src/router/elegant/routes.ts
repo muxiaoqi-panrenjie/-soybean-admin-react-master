@@ -342,16 +342,30 @@ export const generatedRoutes: ElegantConstRoute[] = [
                 ]
               },
               {
-                matchedFiles: [null, '/src/pages/(base)/my-app/first/index.tsx', null, null],
-                name: '(base)_my-app_first',
-                path: '/my-app/first',
-                handle: { i18nKey: 'route.(base)_my-app_first', title: '(base)_my-app_first' }
-              },
-              {
-                matchedFiles: [null, '/src/pages/(base)/my-app/second/index.tsx', null, null],
-                name: '(base)_my-app_second',
-                path: '/my-app/second',
-                handle: { i18nKey: 'route.(base)_my-app_second', title: '(base)_my-app_second' }
+                matchedFiles: [null, null, null, null],
+                name: '(base)_my-app_daily',
+                path: '/my-app/daily',
+                handle: { i18nKey: 'route.(base)_my-app_daily', title: '(base)_my-app_daily' },
+                children: [
+                  {
+                    matchedFiles: [null, '/src/pages/(base)/my-app/daily/first/index.tsx', null, null],
+                    name: '(base)_my-app_daily_first',
+                    path: '/my-app/daily/first',
+                    handle: { i18nKey: 'route.(base)_my-app_daily_first', title: '(base)_my-app_daily_first' }
+                  },
+                  {
+                    matchedFiles: [null, '/src/pages/(base)/my-app/daily/second/index.tsx', null, null],
+                    name: '(base)_my-app_daily_second',
+                    path: '/my-app/daily/second',
+                    handle: { i18nKey: 'route.(base)_my-app_daily_second', title: '(base)_my-app_daily_second' }
+                  },
+                  {
+                    matchedFiles: [null, '/src/pages/(base)/my-app/daily/third/index.tsx', null, null],
+                    name: '(base)_my-app_daily_third',
+                    path: '/my-app/daily/third',
+                    handle: { i18nKey: 'route.(base)_my-app_daily_third', title: '(base)_my-app_daily_third' }
+                  }
+                ]
               }
             ]
           },
